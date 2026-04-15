@@ -283,6 +283,7 @@ firebase-settings.crashlytics.com
 firebaseinstallations.googleapis.com
 static-basket-01.wbbasket.ru
 ru.pool.ntp.org
+wildberries.ru
 apps-config.wildberries.ru
 marketing-info.wildberries.ru
 journal-bt.wildberries.ru
@@ -356,6 +357,7 @@ cdn2.ozone.ru
 cdnvideo.ozone.ru
 content-autofill.googleapis.com
 docs.ozon.ru
+ozon.ru
 firebaseinstallations.googleapis.com
 io.ozone.ru
 ir-3.ozone.ru
