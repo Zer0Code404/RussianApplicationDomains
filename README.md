@@ -111,7 +111,6 @@ vk7-14.vkuser.net
 ```
 mobileproxy.passport.yandex.net
 external-api.pixel.plus.yandex.net
-242.0.168.192.in-addr.arpa
 ma.kinopoisk.ru
 backend.messenger.yandex.net
 graphql.kinopoisk.ru
