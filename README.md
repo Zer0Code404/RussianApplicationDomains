@@ -5,371 +5,59 @@
 Я помогу вам значительно снизить риск блокировки ❤️
 ________________________________________
 
-# Домены к которым обращается Мессенджер MAX. (MAX)
-```
-api.oneme.ru
-i.oneme.ru
-tracker-api.vk-analytics.ru
-checkip.amazonaws.com
-gstatic.com
-calls.okcdn.ru
-gosuslugi.ru
-mtalk.google.com
-st.max.ru
-firebaselogging.googleapis.com
-channels-showcase.max.ru
-ext-bots.max.ru
-hb.vkcloud-storage.ru
-iv.okcdn.ru
-fd.oneme.ru
-ifconfig.me
-videowebrtc.okcdn.ru
-ip.mail.ru
-api.ok.ru
-maxvd307.okcdn.ru
-sdk-api.apptracer.ru
-```
-# Домены к которым обращается Яндекс Браузер. (Yandex-Browser)
-```
-report.appmetrica.yandex.net
-yastatic.net
-api.browser.yandex.net
-api.browser.yandex.ru
-yandex.ru
-dzen.ru
-suggest.dzen.ru
-suggest.sso.dzen.ru
-alice.yandex.ru
-api.lbs.yandex.net
-vkpns.rustore.ru
-stats.rustore.ru
-storage.mds.yandex.net
-favicon.yandex.net
-startup.mobile.yandex.net
-mobileproxy.passport.yandex.net
-sync.browser.yandex.net
-api.passport.yandex.ru
-cloud-api.yandex.net
-rosenberg.appmetrica.yandex.net
-sba.yandex.net
-update.googleapis.com 
-egress.yandex.net
-```
-# Домены к которым обращаются Яндекс Карты. (Yandex-Maps)
-```
-report.appmetrica.yandex.net
-avatars.mds.yandex.net
-ezfweb-launches.appsflyersdk.com
-proxy.mob.maps.yandex.net
-geointernal.mob.maps.yandex.net
-yandex.ru
-api.browser.yandex.ru
-app.tanker.yandex.net
-tanker.s3.yandex.net
-ezfweb-inapps.appsflyersdk.com
-firebaselogging-pa.googleapis.com (сторонний, но запрос был из Карт)
-firebaselogging.googleapis.com (сторонний, но запрос был из Карт)
-mobile-maps-common.s3.yandex.net
-egress.yandex.net
-mc.yandex.ru
-api.plus.yandex.net
-cdnretkamn5t7jmy24yc.svc.cdn.yandex.net
-ext-cloudcdn-rurtw01bln-01.cdn.yandex.net
-rosenberg.appmetrica.yandex.net
-```
-# Домены к которым обращается Мессенджер VK. (VK)
-```
-api.vk.ru
-vk.ru
-eh.vk.com
-queuev4.vk.ru
-sun119-2.vkuserphoto.ru
-sun119-1.vkuserphoto.ru
-sun9-58.vkuserphoto.ru
-iv.okcdn.ru
-rv.mail.ru
-r0.mradx.net
-r0.mail.ru
-vk119-1.vkuser.net
-api.mycdn.me
-vk119-2.vkuser.net
-43211.ms.vk.com
-45211.ms.vk.com
-ts.tracker-api.vk-analytics.ru
-sun119-1.userapi.com
-sun119-2.userapi.com
-vkvd253.okcdn.ru
-vkvd710.okcdn.ru
-calls.okcdn.ru
-videowebrtc.okcdn.ru
-vkvd207.okcdn.ru
-wcm.weborama-tech.ru
-vk7-1.vkuser.net
-vk7-14.vkuser.net
-```
-# Домены к которым обращался КиноПоиск. (KinoPoisk)
-```
-mobileproxy.passport.yandex.net
-external-api.pixel.plus.yandex.net
-ma.kinopoisk.ru
-backend.messenger.yandex.net
-graphql.kinopoisk.ru
-ih4bsf-launches.appsflyersdk.com
-avatars.mds.yandex.net
-report.appmetrica.yandex.net
-log.strm.yandex.ru
-strm.yandex.ru
-tracking.ott.yandex.net
-ext-strm-rurtw01bln-01.strm.yandex.net
-cdnrkovrtys7nucgnzhe.svc.cdn.yandex.net
-yandex.ru
-timing.ott.yandex.net
-strm-m9-158.strm.yandex.net
-strm-m9-169.strm.yandex.net
-strm-m9-164.strm.yandex.net
-strm-m9-69.strm.yandex.net
-strm-m9-1.strm.yandex.net
-strm-m9-47.strm.yandex.net
-strm-m9-150.strm.yandex.net
-strm-mar-197.strm.yandex.net
-strm-mar-223.strm.yandex.net
-rosenberg.appmetrica.yandex.net
-st.kp.yandex.net
-yastatic.net
-passport.yandex.ru
-sp.yandex.ru
-mc.yandex.com
-mc.yandex.ru
-strm-m9-83.strm.yandex.net
-concurrency-arbiter.ott.yandex.net
-egw.home-gateway.plus.yandex.net
-```
-# Домены к которым обращался VK Видео (VK-Video)
-```
-vk.ru
-firebaselogging-pa.googleapis.com
-tracker-api.vk-analytics.ru
-rs.mail.ru
-33111.ms.vk.com
-vkvideo.ru
-sun1-95.userapi.com
-sun1-22.userapi.com
-sun1-21.userapi.com
-sun1-98.userapi.com
-sun1-29.userapi.com
-sun1-85.userapi.com
-sun1-14.userapi.com
-sun1-56.userapi.com
-sun1-92.userapi.com
-sun1-16.userapi.com
-sun1-24.userapi.com
-sun1-26.userapi.com
-sun1-55.userapi.com
-sun1-47.userapi.com
-sun1-17.userapi.com
-sun1-30.userapi.com
-sun1-94.userapi.com
-sun1-91.userapi.com
-sun1-84.userapi.com
-sun1-54.userapi.com
-sun1-25.userapi.com
-sun1-23.userapi.com
-sun1-83.userapi.com
-sun1-15.userapi.com
-sun1-13.userapi.com
-vkvd330.okcdn.ru
-api.vkvideo.ru
-dns.google.com
-ad.mail.ru
-35111.ms.vk.com
-vkvd661.okcdn.ru
-api.mycdn.me
-sun119-1.userapi.com
-vkvd713.okcdn.ru
-vkvd620.okcdn.ru
-sun119-2.userapi.com
-iv.okcdn.ru
-sun9-79.userapi.com
-sun9-65.userapi.com
-sun9-88.userapi.com
-vkvd278.okcdn.ru
-sun9-6.userapi.com
-vk119-1.vkuser.net
-vkvd596.okcdn.ru
-sun9-45.userapi.com
-sun9-11.userapi.com
-sun9-48.userapi.com
-sun9-33.userapi.com
-sun9-30.userapi.com
-vk119-2.vkuser.net
-sun9-10.userapi.com
-sun9-22.userapi.com
-sun9-27.userapi.com
-sun9-35.userapi.com
-sun9-58.userapi.com
-43211.ms.vk.com
-45211.ms.vk.com
-vkvd472.okcdn.ru
-vk7-7.vkuser.net
-vk7-1.vkuser.net
-vk7-4.vkuser.net
-vkvd368.okcdn.ru
-vkvd581.okcdn.ru
-id.vk.com
-static.vk.com
-privacy-cs.mail.ru
-sdk-api.apptracer.ru
-api.vk.com
-ts.tracker-api.vk-analytics.ru
-sun9-24.userapi.com
-sun9-13.userapi.com
-sun9-38.userapi.com
-sun9-62.userapi.com
-sun9-34.userapi.com
-sun9-57.userapi.com
-vkvd169.okcdn.ru
-sun9-32.userapi.com
-sun9-56.userapi.com
-```
-# Домены к которым обращался Самокат (Samokat)
-```
-keys.api.2gis.com
-error-tracking.samokat.ru
-ip4.tracker-api.vk-analytics.ru
-ts.tracker-api.vk-analytics.ru
-core-colibri-api.samokat.ru
-api.samokat.ru
-tracker-api.vk-analytics.ru
-code-push-api.samokat.ru
-app.adjust.com
-s1.bss.2gis.com
-ssp-gw.kuper.ru
-damcdn.samokat.ru
-showcase-image.samokat.ru
-cm.samokat.ru
-tracking-app.diginetica.net
-```
-# Домены к которым обращался Яндекс.Музыка (Yandex.Music)
-```
-firebaselogging-pa.googleapis.com
-launches.appsflyersdk.com
-mobileproxy.passport.yandex.net
-api.music.yandex.net
-avatars.mds.yandex.net
-report.appmetrica.yandex.net
-yandex.ru
-ynison.music.yandex.net
-inapps.appsflyersdk.com
-mn5xigko7kvwfnwx.ynison.music.yandex.net
-frontend.vh.yandex.ru
-log.strm.yandex.ru
-avatars.yandex.net
-ext-strm-rurtw01bln-01.strm.yandex.net
-music-public-resources.s3.yandex.net
-egw.home-gateway.plus.yandex.net
-iot.quasar.yandex.ru
-api.messenger.yandex.net
-external-api.mediabilling.yandex.ru
-egw.pull-formats.plet.yandex.net
-api.plus.yandex.net
-video-full-screen.s3.yandex.net
-api.browser.yandex.ru
-firebaselogging.googleapis.com
-```
-# Домены к которым обращался Wildberries (Wildberries)
-```
-marketplace-sentry.wb.ru
-firebase-settings.crashlytics.com
-firebaseinstallations.googleapis.com
-static-basket-01.wbbasket.ru
-ru.pool.ntp.org
-wildberries.ru
-apps-config.wildberries.ru
-marketing-info.wildberries.ru
-journal-bt.wildberries.ru
-banners-bt.wildberries.ru
-antibot.wildberries.ru
-napi.wildberries.ru
-wildtracker.wb.ru
-ug-bt.wildberries.ru
-points-bt.wildberries.ru
-user-storage-01.wb.ru
-data-checker.wildberries.ru
-static-basket-03.wbbasket.ru
-a.wb.ru
-static-basket-02.wb.ru
-api-android.wildberries.ru
-xapi.wildberries.ru
-basket-17.wbbasket.ru
-basket-35.wbbasket.ru
-basket-15.wbbasket.ru
-basket-24.wbbasket.ru
-basket-38.wbbasket.ru
-basket-36.wbbasket.ru
-basket-03.wbbasket.ru
-basket-12.wbbasket.ru
-basket-25.wbbasket.ru
-videonme-basket-11.wbbasket.ru
-basket-23.wbbasket.ru
-basket-14.wbbasket.ru
-basket-27.wbbasket.ru
-basket-34.wbbasket.ru
-basket-01.wbbasket.ru
-basket-16.wbbasket.ru
-basket-29.wbbasket.ru
-basket-19.wbbasket.ru
-basket-08.wbbasket.ru
-basket-20.wbbasket.ru
-basket-18.wbbasket.ru
-basket-13.wbbasket.ru
-basket-10.wbbasket.ru
-basket-33.wbbasket.ru
-basket-22.wbbasket.ru
-videonme-basket-03.wbbasket.ru
-basket-28.wbbasket.ru
-locator.wildberries.ru
-basket-04.wbbasket.ru
-cdn.wbbasket.ru
-splitter.wb.ru
-wibes-01.wbbasket.ru
-basket-26.wbbasket.ru
-kzn-basket-cdn-03bl.geobasket.ru
-kzn-static-cdn-03bl.geobasket.ru
-videonme-basket-09.wbbasket.ru
-kzn-basket-cdn-01bl.geobasket.ru
-kzn-basket-cdn-02bl.geobasket.ru
-videonme-basket-08.wbbasket.ru
-videonme-basket-01.wbbasket.ru
-firebaselogging-pa.googleapis.com
-kzn-static-cdn-01bl.geobasket.ru
-videonme-basket-05.wbbasket.ru
-basket-37.wbbasket.ru
-videonme-basket-12.wbbasket.ru
-```
-# Домены к которым обращается OZON (ozon)
-```
-api.ozon.ru
-api.vk.ru
-cdn-settings.appsflyersdk.com
-cdn1.ozone.ru
-cdn1.ozonusercontent.com
-cdn2.ozone.ru
-cdnvideo.ozone.ru
-content-autofill.googleapis.com
-docs.ozon.ru
-ozon.ru
-firebaseinstallations.googleapis.com
-io.ozone.ru
-ir-3.ozone.ru
-ir.ozone.ru
-launches.appsflyersdk.com
-p.ozon.ru
-sentry.ozon.ru
-stats.rustore.ru
-st.ozone.ru
-v-1.ozone.ru
-vp-1.ozone.ru
-vr-1.ozone.ru
-www.ozon.ru
-xapi.ozon.ru
-```
+# Домены к которым обращается Мессенджер MAX.
+[📋 Список доменов](https://github.com/Zer0Code404/RussianApplicationDomains/blob/main/files/MAX)
+
+# Домены к которым обращается Мессенджер VK. 
+[📋 Список доменов](https://github.com/Zer0Code404/RussianApplicationDomains/blob/main/files/VK)
+
+# Домены к которым обращался VK Видео 
+[📋 Список доменов](https://github.com/Zer0Code404/RussianApplicationDomains/blob/main/files/VK-VIDEO)
+
+# Домены к которым обращался Самокат 
+[📋 Список доменов](https://github.com/Zer0Code404/RussianApplicationDomains/blob/main/files/SAMOKAT)
+
+# Домены к которым обращался Wildberries 
+[📋 Список доменов](https://github.com/Zer0Code404/RussianApplicationDomains/blob/main/files/Wildberries)
+
+# Домены к которым обращается OZON 
+[📋 Список доменов](https://github.com/Zer0Code404/RussianApplicationDomains/blob/main/files/OZON)
+
+# Домены к которым обращается СберБанк
+[📋 Список доменов](https://github.com/Zer0Code404/RussianApplicationDomains/blob/main/files/SberBank)
+
+# Домены к которым обращаются Госуслуги
+[📋 Список доменов](https://github.com/Zer0Code404/RussianApplicationDomains/blob/main/files/Gosuslugi)
+
+# Домены к которым обращается Магнит
+[📋 Список доменов](https://github.com/Zer0Code404/RussianApplicationDomains/blob/main/files/MAGNIT)
+
+# Домены к которым обращается Т-Банк
+[📋 Список доменов](https://github.com/Zer0Code404/RussianApplicationDomains/blob/main/files/T-BANK)
+
+# Домены к которым обращаются Одноклассники
+[📋 Список доменов](https://github.com/Zer0Code404/RussianApplicationDomains/blob/main/files/OK)
+
+# Домены к которым обращаются 2ГИС
+[📋 Список доменов](https://github.com/Zer0Code404/RussianApplicationDomains/blob/main/files/2GIS)
+
+# Домены к которым обращаются ВТБ
+[📋 Список доменов](https://github.com/Zer0Code404/RussianApplicationDomains/blob/main/files/VTB)
+
+# Домены к которым обращаются Альфа Банк
+[📋 Список доменов](https://github.com/Zer0Code404/RussianApplicationDomains/blob/main/files/AlfaBank)
+
+# Домены к которым обращаются остальные Государственные структуры
+[📋 Список доменов](https://github.com/Zer0Code404/RussianApplicationDomains/blob/main/files/Goverment_OTHER)
+
+# Домены к которым обращается ОЗОН БАНК
+[📋 Список доменов](https://github.com/Zer0Code404/RussianApplicationDomains/blob/main/files/OZON_BANK)
+
+# Домены к которым обращается экосистема Яндекса
+[📋 Список доменов](https://github.com/Zer0Code404/RussianApplicationDomains/blob/main/files/Yandex-ALL)
+____________________________________________________________________
+
+# Пожертвование <3
+
+Если вам понравился мой репозиторий, и вы хотите задонатить, вы можете это сделать ниже.
+[CryptoBOT](https://t.me/send?start=IVkMnzAvYRXh)
