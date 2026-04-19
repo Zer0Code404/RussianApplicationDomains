@@ -50,10 +50,10 @@ ________________________________________
 # Домены к которым обращаются остальные Государственные структуры
 [📋 Список доменов](https://github.com/Zer0Code404/RussianApplicationDomains/blob/main/files/Goverment_OTHER)
 
-# Домены к которым обращается ОЗОН БАНК
+# Домены к которым обращается Озон Банк
 [📋 Список доменов](https://github.com/Zer0Code404/RussianApplicationDomains/blob/main/files/OZON_BANK)
 
-# Домены к которым обращается экосистема Яндекса
+# Домены к которым обращается Экосистема Яндекса.
 [📋 Список доменов](https://github.com/Zer0Code404/RussianApplicationDomains/blob/main/files/Yandex-ALL)
 ____________________________________________________________________
 
