@@ -55,6 +55,16 @@ ________________________________________
 
 # Домены к которым обращается Экосистема Яндекса.
 [📋 Список доменов](https://github.com/Zer0Code404/RussianApplicationDomains/blob/main/files/Yandex-ALL)
+
+# Домены к которым обращается Перекресток.
+[📋 Список доменов](https://github.com/Zer0Code404/RussianApplicationDomains/blob/main/files/Perekrestok)
+
+# Домены к которым обращается Детский Мир.
+[📋 Список доменов](https://github.com/Zer0Code404/RussianApplicationDomains/blob/main/files/Detskiy-Mir)
+
+# Домены к которым обращается Золотое Яблоко.
+[📋 Список доменов](https://github.com/Zer0Code404/RussianApplicationDomains/blob/main/files/GOLD-APPLE)
+
 ____________________________________________________________________
 
 # Пожертвование <3
